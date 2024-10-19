@@ -2,7 +2,9 @@ section -1
 
 
 section -2
-
+One day,the eagle invited the fox to join it in its nest atop a tall tree.But the fox,
+aware of its vulnerability,politely declined.The eagle mocked the fox's caution,saying,
+"what harm could come to me in my own nest?"Little did the eagle know, a hunter was watching from afar.
 
 section -3
 
